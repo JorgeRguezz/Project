@@ -1,0 +1,16 @@
+{
+    "economics": 0,
+    "law": 1,
+    "engineering": 2,
+    "math": 3,
+    "physics": 4,
+    "other": 5,
+    "business": 6,
+    "philosophy": 7,
+    "biology": 8,
+    "psychology": 9,
+    "history": 10,
+    "health": 11,
+    "computer science": 12,
+    "chemistry": 13
+}
